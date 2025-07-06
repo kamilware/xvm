@@ -1,0 +1,7 @@
+/build/
+/dist/
+/venv/
+/main.spec
+*.pyc
+.idea
+.vscode
